@@ -2,4 +2,6 @@
 1) Локально развернуть ollama c моделями llama3.1:8b и snowflake-arctic-embed:22m
 2) Сгенерировать базу знаний путем запуска langModel.py (Или использовать уже созданную в папке chroma).
 3) Запустить flaskApp
+
+   
 ![alt text](example.jpg)
